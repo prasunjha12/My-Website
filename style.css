@@ -1,0 +1,17 @@
+
+h1{
+ color:black;
+ margin-top: 20px;
+ }
+ body{
+background-color:lightsalmon;
+ }
+ hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: grey;
+    width: 50px; 
+}
+
+    
